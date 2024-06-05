@@ -1,0 +1,15 @@
+/Users/williamsantanadeamorim/Projects/GetterAndSetter/GetterAndSetter/bin/Debug/net7.0/GetterAndSetter
+/Users/williamsantanadeamorim/Projects/GetterAndSetter/GetterAndSetter/bin/Debug/net7.0/GetterAndSetter.deps.json
+/Users/williamsantanadeamorim/Projects/GetterAndSetter/GetterAndSetter/bin/Debug/net7.0/GetterAndSetter.runtimeconfig.json
+/Users/williamsantanadeamorim/Projects/GetterAndSetter/GetterAndSetter/bin/Debug/net7.0/GetterAndSetter.dll
+/Users/williamsantanadeamorim/Projects/GetterAndSetter/GetterAndSetter/bin/Debug/net7.0/GetterAndSetter.pdb
+/Users/williamsantanadeamorim/Projects/GetterAndSetter/GetterAndSetter/obj/Debug/net7.0/GetterAndSetter.csproj.AssemblyReference.cache
+/Users/williamsantanadeamorim/Projects/GetterAndSetter/GetterAndSetter/obj/Debug/net7.0/GetterAndSetter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/williamsantanadeamorim/Projects/GetterAndSetter/GetterAndSetter/obj/Debug/net7.0/GetterAndSetter.AssemblyInfoInputs.cache
+/Users/williamsantanadeamorim/Projects/GetterAndSetter/GetterAndSetter/obj/Debug/net7.0/GetterAndSetter.AssemblyInfo.cs
+/Users/williamsantanadeamorim/Projects/GetterAndSetter/GetterAndSetter/obj/Debug/net7.0/GetterAndSetter.csproj.CoreCompileInputs.cache
+/Users/williamsantanadeamorim/Projects/GetterAndSetter/GetterAndSetter/obj/Debug/net7.0/GetterAndSetter.dll
+/Users/williamsantanadeamorim/Projects/GetterAndSetter/GetterAndSetter/obj/Debug/net7.0/refint/GetterAndSetter.dll
+/Users/williamsantanadeamorim/Projects/GetterAndSetter/GetterAndSetter/obj/Debug/net7.0/GetterAndSetter.pdb
+/Users/williamsantanadeamorim/Projects/GetterAndSetter/GetterAndSetter/obj/Debug/net7.0/GetterAndSetter.genruntimeconfig.cache
+/Users/williamsantanadeamorim/Projects/GetterAndSetter/GetterAndSetter/obj/Debug/net7.0/ref/GetterAndSetter.dll
